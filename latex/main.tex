@@ -1,0 +1,120 @@
+\documentclass[letterpaper,twocolumn,nodeprecatedcode, oneside, AutoFakeBold, 10pt]{dndbook}
+% \documentclass[letterpaper,twocolumn,nodeprecatedcode, oneside]{book}
+
+\usepackage{ctex}
+\usepackage[singlelinecheck=false, justification=centering]{caption}
+\usepackage{lipsum}
+\usepackage{wrapfig}
+\usepackage{listings}
+\usepackage{hyperref}
+\usepackage{shortvrb}
+\usepackage{stfloats}
+\usepackage{parskip}
+\usepackage{indentfirst}
+\usepackage{appendix}
+\usepackage{enumitem}
+\usepackage[backend=bibtex]{biblatex}
+
+\usepackage{geometry}
+\usepackage{wrapfig}
+% \setlength{\voffset}{-10mm}                        
+\setlength{\headheight}{5mm}
+\setlength{\topmargin}{-10mm}
+\setlength{\headsep}{5mm}
+\setlength{\footskip}{10mm}
+\setlength{\textheight}{674pt}
+
+
+% footer and header
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[L]{\rightmark}
+\fancyhead[R]{Glitches - 绿色三角洲}
+\fancyfoot[C]{\thepage}
+% \input{lib/elaboration.tex}
+
+\renewcommand{\headrulewidth}{0.05mm} 
+
+\captionsetup[table]{labelformat=empty,font={sf,sc,bf,},skip=0pt}
+
+\setmainfont{[SH.otf]}
+\setCJKmainfont{[SH.otf]}
+\setsansfont{[SH.otf]}
+\setCJKsansfont{[SH.otf]}
+\setlength{\parindent}{2em}
+% \newcommand{\setParDis}{\setlength {\parskip} {0.1em} }
+\setlength {\parskip} {0pt}
+\MakeShortVerb{|}
+
+\usepackage{wallpaper}
+\CenterWallPaper{1}{img/paper.jpg} %居中的背景图片，出现在文档的每一页上
+
+\lstset{%
+  basicstyle=\ttfamily,
+  language=[LaTeX]{TeX},
+  breaklines=true,
+}
+
+\title{\Huge 故障 \\
+\Large Delta Green 模组}
+\author{作者：Josep\_h}
+\date{}
+
+\begin{document}
+
+% \frontmatter
+
+% \maketitle
+
+% \input{title}
+
+% \tableofcontents
+
+\input{Introduction/引用.tex}
+\input{Introduction/警告.tex}
+
+\mainmatter
+
+\chapter{威胁，真相与特工们}
+\input{Introduction/导言.tex}
+\input{Introduction/发生了什么.tex}
+\input{Introduction/威胁-失真症.tex}
+\input{Introduction/特工的世界.tex}
+\input{Introduction/特工们.tex}
+% \input{Introduction/操作模组.tex}
+
+\chapter{主要角色}
+\input{mainnpc/npc.tex}
+% \input{mainnpc/芝诺悖论.tex}
+
+\chapter{调查}
+% \input{Investigation/迫近的灾难.tex}
+% \input{Investigation/描绘失真症.tex}
+\input{Investigation/简报会.tex}
+\input{Investigation/亚当森的住所.tex}
+\input{Investigation/圣疫.tex}
+\input{Investigation/亚当森的办公室.tex}
+\input{Investigation/加州鹿角传媒公司.tex}
+\input{Investigation/奥克兰中央广场.tex}
+\input{Investigation/“凌晨十二点闹钟”酒吧.tex}
+\input{Investigation/二月十二日之夜.tex}
+\input{Investigation/格林伍德家族.tex}
+\input{Investigation/格林伍德宅邸.tex}
+\input{Investigation/夜晚水上公园.tex}
+
+\chapter{“剧院”}
+\input{Investigation/“剧院”.tex}
+
+\chapter{终幕}
+\input{Investigation/演出之夜.tex}
+
+\appendix
+\input{Appendix/appendix-data.tex}
+\input{Appendix/appendix-events.tex}
+\input{Appendix/appendix-trans.tex}
+\input{Appendix/appendix-handout.tex}
+\input{Appendix/appendix-2007.tex}
+\input{Appendix/appendix-variations.tex}
+\input{Appendix/appendix-afterword.tex}
+% \input{example}
+\end{document}
