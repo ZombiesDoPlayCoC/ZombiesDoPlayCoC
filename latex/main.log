@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.13)  1 NOV 2023 21:07
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.13)  4 NOV 2023 16:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2009,7 +2009,7 @@ File: img/paper.jpg Graphic file (type bmp)
  [32
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2707) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2024,36 +2024,53 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: img/paper.jpg Graphic file (type bmp)
 <img/paper.jpg>
- [34]) (./Appendix/appendix-data.tex
+ [34]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 File: img/paper.jpg Graphic file (type bmp)
 <img/paper.jpg>
- [35
+ [35]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: img/paper.jpg Graphic file (type bmp)
+<img/paper.jpg>
+ [36]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+) (./Appendix/appendix-data.tex
+File: img/paper.jpg Graphic file (type bmp)
+<img/paper.jpg>
+ [37]
 附录 A.
 File: img/paper.jpg Graphic file (type bmp)
 <img/paper.jpg>
-[36
+[38
 
 ]
 File: img/paper.jpg Graphic file (type bmp)
 <img/paper.jpg>
- [37]) (./Appendix/appendix-events.tex
+ [39]) (./Appendix/appendix-events.tex
 File: img/paper.jpg Graphic file (type bmp)
 <img/paper.jpg>
- [38]
+ [40]
 附录 B.
 ) (./Appendix/appendix-trans.tex
 File: img/paper.jpg Graphic file (type bmp)
 <img/paper.jpg>
- [39
+ [41
 
 ]
 附录 C.
 ) (./Appendix/appendix-handout.tex
 File: img/paper.jpg Graphic file (type bmp)
 <img/paper.jpg>
- [40
+ [42
 
 
 ]
@@ -2061,7 +2078,7 @@ File: img/paper.jpg Graphic file (type bmp)
 ) (./Appendix/appendix-2007.tex
 File: img/paper.jpg Graphic file (type bmp)
 <img/paper.jpg>
- [41
+ [43
 
 
 ]
@@ -2069,7 +2086,7 @@ File: img/paper.jpg Graphic file (type bmp)
 ) (./Appendix/appendix-variations.tex
 File: img/paper.jpg Graphic file (type bmp)
 <img/paper.jpg>
- [42
+ [44
 
 
 ]
@@ -2077,7 +2094,7 @@ File: img/paper.jpg Graphic file (type bmp)
 ) (./Appendix/appendix-afterword.tex
 File: img/paper.jpg Graphic file (type bmp)
 <img/paper.jpg>
- [43
+ [45
 
 
 ]
@@ -2089,7 +2106,7 @@ See the caption package documentation for explanation.
 
 File: img/paper.jpg Graphic file (type bmp)
 <img/paper.jpg>
-[44
+[46
 
 
 ] (./main.aux)
@@ -2102,19 +2119,19 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 4BCD4C5D0968D6C26ABF3AEB224EC665;15034
-(rerunfilecheck)             After:  447FE1C5333FDEA828500BEE7BD91486;15034.
+(rerunfilecheck)             Before: 1816FF94D5443B65A882D7C875032E45;16226
+(rerunfilecheck)             After:  54679D7AB761A58A152B0B9F86C527A7;16210.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44928 strings out of 476179
- 1002257 string characters out of 5806898
- 1842178 words of memory out of 5000000
- 64836 multiletter control sequences out of 15000+600000
+ 44958 strings out of 476179
+ 1004042 string characters out of 5806898
+ 1843472 words of memory out of 5000000
+ 64866 multiletter control sequences out of 15000+600000
  472429 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  119i,12n,122p,1861b,850s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (45 pages).
+Output written on main.pdf (47 pages).
