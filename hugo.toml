@@ -1,5 +1,5 @@
 baseURL = "https://zombiesdoplaycoc.github.io/ZombiesDoPlayCoC/"
-languageCode = "zh-CN"
+languageCode = "en-us"
 title = "Glitches!"
 theme= "archie"
 copyright = "©Josep_h"
@@ -7,7 +7,7 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 [params]
-	mode="dark"
+	mode="toggle"
 	useCDN=false
 	subtitle = "绿色三角洲模组《失灵》专用网站，欢迎您的到来。您可以在这里找到一些和本模组相关的信息，以及一些战报（如果有的话）。"
 
