@@ -20,7 +20,8 @@
 				<time>{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end
 					}}</time>
 				<br>{{ template "partials/pagedescription.html" . }}
-				<a class="readmore" href="{{ .RelPermalink }}">阅读更多 ⟶</a>
+				<br>
+				<p align="right"><a class="readmore" href="{{ .RelPermalink }}">阅读更多 ⟶ </a></p>
 			</section>
 			{{ end }}
 			{{ template "partials/paginator.html" . }}
