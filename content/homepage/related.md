@@ -20,6 +20,7 @@ weight = 1
 - 《Symphony No.2》- Gustav Mahler
 - 《Funeral》- Arcade Fire
 - 《Lift Your Skinny Fists Like Antennas to Heaven》- Godspeed You! Black Empereor
+- 《Meddle》- Pink Floyd
 
 ## 游戏
 - 《Alan Wake》、《Alan Wake II》。或许会给特殊的视觉表达和氛围塑造带来帮助。
