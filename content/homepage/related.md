@@ -26,6 +26,6 @@ weight = 1
 - 《Alan Wake》、《Alan Wake II》。或许会给特殊的视觉表达和氛围塑造带来帮助。
 
 ## 影视
-- 《True Dectective(Season 1)》。故事氛围以及主人公的特殊心理感受，或许会对塑造本模组的故事有所帮助。
+- 《True Detective(Season 1)》。故事氛围以及主人公的特殊心理感受，或许会对塑造本模组的故事有所帮助。
 - 《The Calls》。可以作为故障艺术的参考。
 - 《Archive 81》。和《不可思议的风景》具有一定关联性。
