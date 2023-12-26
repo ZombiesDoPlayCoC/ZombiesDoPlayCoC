@@ -1,3 +1,6 @@
 baseURL = 'https://zombiesdoplaycoc.github.io/ZombiesDoPlayCoC/'
 languageCode = 'en-us'
 title = 'Glitches!'
+
+theme = "archie"
+themeDir = "themes/archie"
