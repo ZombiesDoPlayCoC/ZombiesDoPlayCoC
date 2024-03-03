@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Glitches!</title>
-    <link>https://zombiesdoplaycoc.github.io/ZombiesDoPlayCoC/</link>
-    <description>Recent content on Glitches!</description>
+    <title>Homepages on Glitches!</title>
+    <link>https://zombiesdoplaycoc.github.io/ZombiesDoPlayCoC/homepage/</link>
+    <description>Recent content in Homepages on Glitches!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©Josep_h</copyright>
     <lastBuildDate>Tue, 26 Dec 2023 21:42:20 +0800</lastBuildDate>
-    <atom:link href="https://zombiesdoplaycoc.github.io/ZombiesDoPlayCoC/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zombiesdoplaycoc.github.io/ZombiesDoPlayCoC/homepage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于《失灵》</title>
       <link>https://zombiesdoplaycoc.github.io/ZombiesDoPlayCoC/homepage/related/</link>
@@ -78,13 +78,6 @@
       <pubDate>Tue, 26 Dec 2023 21:42:20 +0800</pubDate>
       <guid>https://zombiesdoplaycoc.github.io/ZombiesDoPlayCoC/homepage/posts/s1e7-fractal/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;HR: Josep_h&#xA;PL: Nof&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;浑浑噩噩的黑暗之中，合唱的歌咏的声音在你的耳边躁动。男人、女人、老人、小孩、海浪敲击着海岸、翅膀煽动着水流。几声枪响从歌咏声中穿破出来，你腹部剧烈的疼痛将你从昏睡中拉了起来，现在天还黑着。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>关于我们</title>
-      <link>https://zombiesdoplaycoc.github.io/ZombiesDoPlayCoC/about/</link>
-      <pubDate>Tue, 26 Dec 2023 21:42:20 +0800</pubDate>
-      <guid>https://zombiesdoplaycoc.github.io/ZombiesDoPlayCoC/about/</guid>
-      <description>您好！欢迎来到这里，我是 Josep_h，一个比较懒散和低产的 TRPG 玩家、《失灵》的作者以及这个网站的主人。如果您对本模组有什么意见或者建议，或者只是单纯地希望给我们分享您的体验，欢迎通过邮箱联系我们。&#xA;祝您生活愉快！</description>
     </item>
   </channel>
 </rss>
