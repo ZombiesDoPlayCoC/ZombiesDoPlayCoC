@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文档 on Glitches!</title>
+    <link>https://zombiesdoplaycoc.github.io/ZombiesDoPlayCoC/tags/%E6%96%87%E6%A1%A3/</link>
+    <description>Recent content in 文档 on Glitches!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©Josep_h</copyright>
+    <lastBuildDate>Tue, 26 Dec 2023 21:42:20 +0800</lastBuildDate>
+    <atom:link href="https://zombiesdoplaycoc.github.io/ZombiesDoPlayCoC/tags/%E6%96%87%E6%A1%A3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于《失灵》</title>
+      <link>https://zombiesdoplaycoc.github.io/ZombiesDoPlayCoC/homepage/related/</link>
+      <pubDate>Tue, 26 Dec 2023 21:42:20 +0800</pubDate>
+      <guid>https://zombiesdoplaycoc.github.io/ZombiesDoPlayCoC/homepage/related/</guid>
+      <description>&lt;p&gt;我们在这里提供一些我们在创作过程中参考的材料，以及一些其它可能会对您塑造《失灵》故事有所帮助的材料。如果这能帮到您的话。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>《失灵》更新说明</title>
+      <link>https://zombiesdoplaycoc.github.io/ZombiesDoPlayCoC/homepage/basic/</link>
+      <pubDate>Tue, 26 Dec 2023 21:42:20 +0800</pubDate>
+      <guid>https://zombiesdoplaycoc.github.io/ZombiesDoPlayCoC/homepage/basic/</guid>
+      <description>版本 1.0.5（最新）：一些捉虫，对玩家须知和附录D：QA进行了一点调整，更新于2024/02/02。 版本 1.0.4：一些捉虫，及结尾处逻辑细节调整，更新于2023/12/30。 版本 1.0.3：一些捉虫，及图片细节调整，更新于2023/12/20。 您可以通过 Dicecho、魔都等网站提供的链接下载。</description>
+    </item>
+    <item>
+      <title>关于我们</title>
+      <link>https://zombiesdoplaycoc.github.io/ZombiesDoPlayCoC/about/</link>
+      <pubDate>Tue, 26 Dec 2023 21:42:20 +0800</pubDate>
+      <guid>https://zombiesdoplaycoc.github.io/ZombiesDoPlayCoC/about/</guid>
+      <description>您好！欢迎来到这里，我是 Josep_h，一个比较懒散和低产的 TRPG 玩家、《失灵》的作者以及这个网站的主人。如果您对本模组有什么意见或者建议，或者只是单纯地希望给我们分享您的体验，欢迎通过邮箱联系我们。&#xA;祝您生活愉快！</description>
+    </item>
+  </channel>
+</rss>
