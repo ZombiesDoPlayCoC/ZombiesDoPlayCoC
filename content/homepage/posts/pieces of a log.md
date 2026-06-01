@@ -20,4 +20,4 @@ tags = ['战报']
 
 我就不再絮絮叨叨了，接下来请欣赏原文吧——
 
-由于战报全文在排版上做了非常多难以概述的别出心裁的设计和布置，因此此处上传一个PDF的版本，以便展示其原貌。请有兴趣的朋友自行下载：[《失灵》战报](https://www.jianguoyun.com/p/DUQBOnUQ0oKlDhjAtKEGIAA)。
+由于战报全文在排版上做了非常多难以概述的别出心裁的设计和布置，因此此处上传一个PDF的版本，以便展示其原貌。请有兴趣的朋友自行下载这份战报：[GitHub链接](https://zombiesdoplaycoc.github.io/ZombiesDoPlayCoC/assets/DG-Glitches-Mingruo-Jiuqian.pdf)，[坚果云备用链接](https://www.jianguoyun.com/p/DUQBOnUQ0oKlDhjAtKEGIAA)。
